@@ -13,7 +13,7 @@ Requirements:
 - Python version --> 3.9.7
 - Pickle version --> 0.7.9
 
-All the folders and files presented in this Github repository can be downloaded directly to your computer and the way they are organized, the web application will be displayed (locally) on your computer. Once all files and folders have been downloaded, simply enter the following command in your terminal:
+All the folders and files presented in this Github repository can be downloaded directly to your computer and the way they are organized, the web application will be displayed (locally) on your computer. Once all files and folders have been downloaded and the requirements are fulfilled, simply enter the following command in your terminal:
 
 > streamlit run Cropweb.py
 
